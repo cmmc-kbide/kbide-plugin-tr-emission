@@ -1,17 +1,17 @@
 {
   "name" : "kbide-plugin-tr-emission",
-  "title": "tr-emission",
+  "title": "KY-005 INFRARED TRANSMITTER MODULE",
   "keywords": "tr-emission, esp32, esp8266, arduino",
   "description": "tr-emission plugin for KB-IDE",
   "category":"",
   "git": "https://github.com/cmmc-kbide/kbide-plugin-tr-emission/",
-  "author": "cmmakerclub",
+  "author": "Prawared",
   "email": "",
   "url": "https://github.com/cmmc-kbide/kbide-plugin-tr-emission/",
   "version": "1.0.0",
   "board" : "",
   "platform": ["arduino-esp32"],
   "license": "",
-  "image" : "/static/display.png",
+  "image" : "/static/display.jpg",
   "homepage": "http://www.kbide.org"
 }
